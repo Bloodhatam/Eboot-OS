@@ -5,3 +5,6 @@ Project has:
 - a windows forms app
 - a multi-platform console (Win32/Mac/Linux)
 - a special OS designed to run project apps (you're here right now)
+
+The OS uses lordmilko's i686-elf-tools(https://github.com/lordmilko/i686-elf-tools) for compiling on windows,
+it will also work when compiling with normal cross-compiler on linux
