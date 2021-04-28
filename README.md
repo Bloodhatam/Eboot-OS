@@ -8,3 +8,4 @@ Project has:
 
 The OS uses lordmilko's i686-elf-tools(https://github.com/lordmilko/i686-elf-tools) for compiling on windows,
 it will also work when compiling with normal cross-compiler on linux
+How to setup cross-compiler on linux: https://wiki.osdev.org/GCC_Cross-Compiler
