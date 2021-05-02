@@ -107,7 +107,7 @@ void terminal_writeline(char* data)
 {
 	int spaces = VGA_WIDTH - terminal_column;
 	for(int i=0; i<spaces;i++){
-		data = data + 0xA0;
+		data = data + 0x20;
 	}
 	terminal_writestring(data);
 }
