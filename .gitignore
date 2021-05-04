@@ -5,8 +5,8 @@
 /i686-elf-tools-windows.zip
 /isodir
 /kernel.o
-/myos.bin
-/myos.iso
+/*.bin
+/*.iso
 /nasm-2.15.05
 /nasm-2.15.05-win32.zip
 /compileeverything.bat

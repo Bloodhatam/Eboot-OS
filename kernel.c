@@ -49,7 +49,7 @@ size_t strlen(const char* str)
 		len++;
 	return len;
 }
- 
+
 static const size_t VGA_WIDTH = 80;
 static const size_t VGA_HEIGHT = 25;
  
