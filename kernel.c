@@ -118,4 +118,6 @@ void kernel_main(void)
  
 	/* Newline support is left as an exercise. */
 	terminal_writestring("Eboot");
+	terminal_writeline("::Standard_i386-elf");
+    terminal_writestring("Type help to get help");
 }
